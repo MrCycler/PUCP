@@ -1,4 +1,4 @@
-﻿# PUCP
-Cursos de mecatrónica PUCP
+﻿# PSID
 
-Aquí podrás encontrar material escencial para obtener mejores resultados con los recursos que posteamos.
+La notas del 1-3 son la primera parte del curso.
+Las notas del 4-6 son la segunda parte del curso.
