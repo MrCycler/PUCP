@@ -1,4 +1,7 @@
 ﻿# PSID
 
-La notas del 1-3 son la primera parte del curso.
-Las notas del 4-6 son la segunda parte del curso.
+##Son 3 libros que se usan en el curso:
+
+>1. Para la primera parte del curso: señales y sistemas.
+
+>2. Para los laboratorios en Matlab.
