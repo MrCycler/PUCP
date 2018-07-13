@@ -8,6 +8,7 @@
 
 >> [![PSID](https://img.youtube.com/vi/zJhH4rUUfw0/0.jpg)](https://www.youtube.com/watch?v=zJhH4rUUfw0)
 
+>> Se debe seguir según la enumeración
 
 > Este repositorio está completamente restringido a la comunidad PUCP y el enlace a este repositorio está únicamente manipulado por la comunidad PUCP
 
