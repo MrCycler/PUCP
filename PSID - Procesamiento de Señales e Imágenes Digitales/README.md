@@ -17,7 +17,7 @@
 ### Programa analítico del curso
 
 > #### Primera parte del curso 
-<img src="a.png" alt="hi" class="inline"/>
+>> <img src="a.png" alt="hi" class="inline"/>
 
 > #### Segunda parte del curso
-<img src="b.png" alt="hi" class="inline"/>
+>> <img src="b.png" alt="hi" class="inline"/>
