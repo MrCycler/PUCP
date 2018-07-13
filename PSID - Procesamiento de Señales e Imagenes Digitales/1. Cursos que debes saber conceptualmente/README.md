@@ -1,4 +1,4 @@
-﻿# PUCP
+﻿# CURSOS CONCEPTUALES
 
 ## Cursos que debes saber conceptualmente para ir preparado
 
