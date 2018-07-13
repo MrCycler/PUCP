@@ -1,4 +1,4 @@
-﻿# Curso PUCP
+﻿# Procesamiento de Señales e Imágenes Digitales
 
 ## Esta es una guía básica personal para sobrevivir a PSID.
 
