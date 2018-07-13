@@ -18,5 +18,5 @@
 
 > #### Primera parte del curso 
 <img src="a.png" alt="hi" class="inline"/>
-#### Segunda parte del curso
+> #### Segunda parte del curso
 <img src="b.png" alt="hi" class="inline"/>
