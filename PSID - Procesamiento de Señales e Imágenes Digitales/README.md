@@ -1,6 +1,6 @@
 ﻿# Procesamiento de Señales e Imágenes Digitales
 
-## Esta es una guía básica personal para sobrevivir a PSID.
+## Esta es una guía personal para PSID.
 
 ### El curso fue dictado en el semestre 2018.1 por Renán Rojas.
 
