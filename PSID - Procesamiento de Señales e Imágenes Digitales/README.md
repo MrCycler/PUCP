@@ -1,6 +1,6 @@
 ﻿# Curso PUCP
 
-## Esta es una guía básica personal para afrontar PSID.
+## Esta es una guía básica personal para sobrevivir a PSID.
 
 ### El curso fue dictado en el semestre 2018.1 por Renan Rojas.
 
