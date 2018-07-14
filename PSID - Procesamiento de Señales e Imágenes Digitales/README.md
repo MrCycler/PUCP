@@ -2,7 +2,7 @@
 
 ## Esta es una guía personal para PSID.
 ## El curso pesa cerca de 1 Gb.
-## descarga: https://github.com/ZurMaD/PUCP/archive/master.zip
+## Descargar todo: https://github.com/ZurMaD/PUCP/archive/master.zip
 
 ### El curso fue dictado en el semestre 2018.1 por Renán Rojas.
 
