@@ -1,6 +1,7 @@
 ﻿# Procesamiento de Señales e Imágenes Digitales
 
 ## Esta es una guía personal para PSID.
+## El curso pesa cerca de 1 Gb.
 
 ### El curso fue dictado en el semestre 2018.1 por Renán Rojas.
 
